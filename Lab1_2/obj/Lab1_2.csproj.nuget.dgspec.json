@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "D:\\важное\\gadik\\5 семестр\\технология программирования\\technology programming\\Lab1_2\\Lab1_2.csproj": {}
+    "C:\\Users\\serge\\Source\\Repos\\lazzzolvan\\technology_programming\\Lab1_2\\Lab1_2.csproj": {}
   },
   "projects": {
-    "D:\\важное\\gadik\\5 семестр\\технология программирования\\technology programming\\Lab1_2\\Lab1_2.csproj": {
+    "C:\\Users\\serge\\Source\\Repos\\lazzzolvan\\technology_programming\\Lab1_2\\Lab1_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\важное\\gadik\\5 семестр\\технология программирования\\technology programming\\Lab1_2\\Lab1_2.csproj",
+        "projectUniqueName": "C:\\Users\\serge\\Source\\Repos\\lazzzolvan\\technology_programming\\Lab1_2\\Lab1_2.csproj",
         "projectName": "Lab1_2",
-        "projectPath": "D:\\важное\\gadik\\5 семестр\\технология программирования\\technology programming\\Lab1_2\\Lab1_2.csproj",
-        "packagesPath": "C:\\Users\\Rodri\\.nuget\\packages\\",
-        "outputPath": "D:\\важное\\gadik\\5 семестр\\технология программирования\\technology programming\\Lab1_2\\obj\\",
+        "projectPath": "C:\\Users\\serge\\Source\\Repos\\lazzzolvan\\technology_programming\\Lab1_2\\Lab1_2.csproj",
+        "packagesPath": "C:\\Users\\serge\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\serge\\Source\\Repos\\lazzzolvan\\technology_programming\\Lab1_2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Rodri\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\serge\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -53,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\Rodri\\.dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
